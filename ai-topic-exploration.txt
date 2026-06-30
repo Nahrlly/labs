@@ -1,0 +1,31 @@
+AI Topic Exploration
+
+Topic I Chose
+How the eyes connect to the brain and how they work
+
+Why I Chose It
+I chose this topic because I am very interested in neuroscience and eventually want to create a prosthetic eye. While I have some extensive knowledge of the brain, I have not yet studied the structure of the eyes much, so I took this as an opportunity.
+First Explanation Using An ELI5 Prompt
+
+Vocabulary I Learned
+saccades - small movements that happen in your eyes which help them keep images in your vision.
+Best Analogy Or Example
+Your eye is like an autofocusing sensor that takes in light and converts it into electrical signals.
+Misconceptions Or Surprises
+Your eyes never stop moving, even when you look at one thing.
+First prompt made me curious about Snell's law, the ganglion cell axons, and retinal neurons
+My Teach-Back
+Your eyes are high-speed sensors that transmit information to the brain, where it is processed and turned into images. As light travels through, it is processed in different ways, ultimately becoming a signal the brain can use. Before the brain can read this signal, the eyes also compress it, reducing bandwidth while retaining the information. Ganglion cells each refine data in a specific way, coming together to process it as a whole in the most advanced manner. The cells also relay the information to the brain, allowing it to fully process it.
+
+ChatGPT said I did not fully understand ganglion cell axons. Instead of processing the information themselves, the ganglion cells each take in a different type of data which has already been processed within the retinal neurons. These cells act as a gateway to the brain instead of as computers themselves.
+What I Still Do Not Understand
+The specific ways the retinal neurons work
+Three Better Questions I Could Ask Next
+How does information flow between the eyes and the brain
+How does the structure of the eye contribute to its function
+What do the parts of the retinal neurons do
+Verification Notes
+how the retina works neuroscience
+optic nerve information transmission
+Scientific papers or information from sites like NIH and NEI are very useful for this topic.
+I would like to check the claim that the brain receives features rather than pictures.
